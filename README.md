@@ -1,5 +1,7 @@
 Sinta-se à vontade para explorar meu perfil e entrar em contato! 🚀
 
+Antigo github: https://github.com/glauberosouza
+
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/glauber-souza-143925233//)
 
